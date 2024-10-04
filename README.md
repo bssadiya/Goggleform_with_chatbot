@@ -1,1 +1,1 @@
-execute in dialogflow
+execute in dialogflow create intents accordingly
